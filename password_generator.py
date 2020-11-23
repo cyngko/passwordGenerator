@@ -1,4 +1,3 @@
-#: Länge des Passworts, Großbuchstaben, kleinbuchstaben, Ziffern, Symbole
 import pyperclip
 import string
 import random
